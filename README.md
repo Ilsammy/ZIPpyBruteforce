@@ -7,4 +7,7 @@ Disclaimer: This project is intended strictly for educational purposes. Any misu
 HOW TO USE:
 To utilize bruteforceZIP.sh, it is essential to prepare a password.txt file containing a dataset of candidate passwords. The purpose of this script is to iterate through the provided password list in order to identify the correct one capable of decrypting and extracting the contents of the private.zip archive.
 
-on linux: git clone 
+on linux: 
+git clone https://github.com/Ilsammy/ZIPpyBruteforce.git
+cd ZIPpyBruteforce
+./bruteforceZIP.sh --> to execute the bash script

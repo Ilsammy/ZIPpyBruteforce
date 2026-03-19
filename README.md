@@ -14,8 +14,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Installation</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{Ilsammy}}" target="_blank">Author</a>
-    <a href="https://github.com/Ilsammy" target="_blank">Author</a>
+  <a href="https://github.com/Ilsammy" target="_blank">Author</a>
 
 </p>
 

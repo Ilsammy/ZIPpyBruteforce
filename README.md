@@ -60,7 +60,7 @@ Ensure the script is executable:
 $ chmod +x bruteforceZIP.sh
 
 # Run the Script
-$ -/bruteforceZIP.sh
+$ ./bruteforceZIP.sh
 
 # 
 ```

@@ -70,7 +70,7 @@ $ ./bruteforceZIP.sh
 This project is under license from myself, but it's completely free, so I don't take any credit :)
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{Ilsammy}}</a>
+Made with :heart: by <a href="https://github.com/Ilsammy" target="_blank">{{Ilsammy}}</a>
 
 &#xa0;
 
